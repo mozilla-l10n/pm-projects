@@ -27,7 +27,6 @@ fy-NL
 ga-IE
 gd
 gl
-gn
 gu-IN
 hi-IN
 hr

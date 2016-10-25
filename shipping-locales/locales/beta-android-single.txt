@@ -4,7 +4,6 @@ as
 ast
 az
 be
-bn-BD
 bn-IN
 br
 ca
