@@ -11,11 +11,6 @@ def main():
             'android-single': 'http://hg.mozilla.org/mozilla-central/raw-file/default/mobile/android/locales/all-locales',
             'desktop': 'http://hg.mozilla.org/mozilla-central/raw-file/default/browser/locales/all-locales'
         },
-        'aurora': {
-            'android-multi': 'http://hg.mozilla.org/releases/mozilla-aurora/raw-file/default/mobile/android/locales/maemo-locales',
-            'android-single': 'http://hg.mozilla.org/releases/mozilla-aurora/raw-file/default/mobile/android/locales/all-locales',
-            'desktop': 'http://hg.mozilla.org/releases/mozilla-aurora/raw-file/default/browser/locales/all-locales'
-        },
         'beta': {
             'android-multi': 'http://hg.mozilla.org/releases/mozilla-beta/raw-file/default/mobile/android/locales/maemo-locales',
             'android-single': 'http://hg.mozilla.org/releases/mozilla-beta/raw-file/default/mobile/android/locales/all-locales',
