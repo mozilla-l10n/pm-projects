@@ -1,7 +1,7 @@
 ---
 name: New Locale for Firefox Desktop
 about: Issue to track new locale in Firefox Desktop
-title: Ship LOCALE (code) in Firefox Desktop
+title: Ship %LOCALE_NAME% (%LOCALE_CODE%) in Firefox Desktop
 labels: Desktop, New locale
 assignees: flodolo
 
